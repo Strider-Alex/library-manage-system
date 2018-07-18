@@ -1,7 +1,7 @@
 /*
 Library Mange System
 Created by Yang Kefan on 2017/05/02
-Support books and persons mangement
+Support books and borrowers mangement
 IMPORTANT:
 Be sure to load library.sql first before you run this program
 */
